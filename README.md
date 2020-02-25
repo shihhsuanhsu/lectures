@@ -1,3 +1,5 @@
+Forked from: [Data science for economists](https://github.com/uo-ec607/lectures)
+
 # Data science for economists
 
 ## Lecture outline and quicklinks
